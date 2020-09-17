@@ -5,7 +5,7 @@
 void f_indexed(char* s);
 int main() {
     int t;
-    char s[1024];
+    char s[10240];
     /* Enter your code here. Read input from STDIN. Print output to STDOUT */   
     scanf("%d",&t);
     for(int i=0;i<t;i++){
